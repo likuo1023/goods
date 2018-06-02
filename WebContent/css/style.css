@@ -1,0 +1,10 @@
+.row{
+		padding:15px;
+		border-bottom:1px solid #aaa;
+}
+.row:last-child{
+	text-align:right;
+}
+textarea{
+		width:100%;
+}
